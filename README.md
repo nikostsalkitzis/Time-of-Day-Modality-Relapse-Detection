@@ -16,7 +16,7 @@ Most wearable relapse-detection pipelines score every sensing modality through a
 
 On a 14-patient e-Prevention cohort the best configuration reaches **AUROC 0.687, AUPRC 0.745, AVG 0.716**.
 
-![Framework overview](assets/architecture.png)
+![Framework overview](architecture.png)
 
 The pipeline has four stages:
 
